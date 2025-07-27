@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Qt5 Data Selector
+Name[zh_CN]=Qt5数据筛选器
+Comment=A modern data filtering application built with Qt5
+Comment[zh_CN]=基于Qt5的现代化数据筛选应用程序
+Exec=Qt5DataSelector
+Icon=qt5-data-selector
+Terminal=false
+Categories=Development;Utility;
+Keywords=data;filter;selector;qt5;
+StartupNotify=true
