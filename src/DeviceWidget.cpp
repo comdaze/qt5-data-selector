@@ -665,8 +665,8 @@ void DeviceWidget::countVisibleDevices(QStandardItem *item, int &totalVisible, i
         }
     }
 }
-v
-oid DeviceWidget::onLoadingStateChanged(bool loading)
+
+void DeviceWidget::onLoadingStateChanged(bool loading)
 {
     showLoadingState(loading);
     emit loadingStateChanged(loading);
